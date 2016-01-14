@@ -25,6 +25,17 @@ body {
      margin-left: 50%;
 }
 
+.jumbotron p {
+     float: right;
+}
+
+.project {
+     margin-left: 0;
+     margin-right: 0;
+     margin-bottom: 3em;
+     text-align: center;
+}
+
 .jumbotron:after {
      content:"";
      background: url("../images/park_panoramic.jpg");
